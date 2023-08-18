@@ -1,4 +1,4 @@
-package com.fiaprn1mobr;
+package com.fiap.finalproject;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;

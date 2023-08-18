@@ -1,26 +1,36 @@
 {
   "project_info": {
-    "project_number": "555776163281",
-    "project_id": "fiap-1mobr",
-    "storage_bucket": "fiap-1mobr.appspot.com"
+    "project_number": "454729235432",
+    "project_id": "mobr-final-project",
+    "storage_bucket": "mobr-final-project.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:555776163281:android:3159575f9a0e46124634f0",
+        "mobilesdk_app_id": "1:454729235432:android:ba322bca38fbdbeba7c25d",
         "android_client_info": {
-          "package_name": "com.fiaprn1mobr"
+          "package_name": "com.fiap.finalproject"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "454729235432-9d9buv355nprth859gkupndghtj27tih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyDEfeH-CS2ChtV64GrEV6e5x_9gXbK8UDY"
+          "current_key": "AIzaSyCXFv-w8sm2Hp4ZHs6adJ5_qhqeIIro08E"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454729235432-9d9buv355nprth859gkupndghtj27tih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
