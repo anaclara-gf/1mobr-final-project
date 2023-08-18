@@ -10,6 +10,7 @@ import {$COLORS} from '@utils';
 
 import {CustomDrawerContent} from './components';
 import {ILoggedDrawer} from './types';
+import {Members} from 'src/screens/Members';
 
 const Drawer = createDrawerNavigator<ILoggedDrawer>();
 
@@ -50,6 +51,15 @@ export function LoggedDrawer() {
           drawerIcon: ({color}) => renderIcon(color, 'map'),
         }}
         component={Maps}
+      />
+      <Drawer.Screen
+        name="Members"
+        options={{
+          title: 'Membros',
+          headerTitle: 'Membros',
+          drawerIcon: ({color}) => renderIcon(color, 'users'),
+        }}
+        component={Members}
       />
     </Drawer.Navigator>
   );
