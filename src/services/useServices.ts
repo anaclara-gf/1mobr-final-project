@@ -1,4 +1,5 @@
 import auth from '@react-native-firebase/auth';
+import firestore from '@react-native-firebase/firestore';
 import crashlytics from '@react-native-firebase/crashlytics';
 
 import {instanceGithub} from './instance';
@@ -79,11 +80,17 @@ export function useServices() {
     }
   }
 
+  async function getMembers() {
+    const members = await firestore().collection('members').get();
+    return members;
+  }
+
   return {
     createUserWithEmailAndPass,
     signOut,
     getUserName,
     signInUserWithEmail,
     listUserRepos,
+    getMembers,
   };
 }
