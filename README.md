@@ -13,5 +13,6 @@ Projeto inicial clonado [desse repositório](Repo: https://github.com/adonaipinh
 # Feature adicionada
 
 Você pode navegar até a página de membros usando o drawer lateral e então você verá uma lista com os quatro membros da equipe. Ao clicar em cada membro você terá acesso a uma página personalizada dele com detalhes do histórico profissional, links para o linkedin e github e um link direto para mandar um e-mail para esse profissional.
- 
-https://clipchamp.com/watch/SNuLPDDWGRo
+
+https://github.com/anaclara-gf/1mobr-final-project/assets/71611075/caee5ab2-b3cd-495b-8442-b0c770fdc901
+
