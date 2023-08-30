@@ -1,6 +1,6 @@
 # FIAP App
 
-Projeto inicial clonado [desse repositório](Repo: https://github.com/adonaipinheiro/FIAPRN1MobR). Foram adicionadas as páginas de membros e de detalhe de membro.
+Projeto inicial clonado [desse repositório](https://github.com/adonaipinheiro/FIAPRN1MobR). Foram adicionadas as páginas de membros e de detalhe de membro.
 
 # Como acessar:
 
